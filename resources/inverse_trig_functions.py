@@ -20,9 +20,9 @@ x_full = np.linspace(-3, 3, 500)
 arctan_values = np.arctan(x_full)
 
 # Plot the three inverse trigonometric functions
-ax.plot(x_restricted, arcsin_values, color='blue', linewidth=2.5, label=r'$\arcsin(x)$', alpha=0.8)
-ax.plot(x_restricted, arccos_values, color='green', linewidth=2.5, label=r'$\arccos(x)$', alpha=0.8)
-ax.plot(x_full, arctan_values, color='purple', linewidth=2.5, label=r'$\arctan(x)$', alpha=0.8)
+ax.plot(x_restricted, arcsin_values, color='blue', linewidth=2.5, linestyle='-', label=r'$\arcsin(x)$', alpha=0.8)
+ax.plot(x_restricted, arccos_values, color='green', linewidth=2.5, linestyle='--', label=r'$\arccos(x)$', alpha=0.8)
+ax.plot(x_full, arctan_values, color='purple', linewidth=2.5, linestyle='-.', label=r'$\arctan(x)$', alpha=0.8)
 
 # Add horizontal reference lines at key angles
 key_angles = [-np.pi/2, -np.pi/4, 0, np.pi/4, np.pi/2, 3*np.pi/4, np.pi]
