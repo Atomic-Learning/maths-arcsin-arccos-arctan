@@ -1,22 +1,19 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Maths; The arcsin, arccos and arctan Functions",
+    "slug": "maths-arcsin-arccos-arctan",
+    "description": "An introduction to arcsin, arccos and arctan, the inverses of the trigonometric functions sine, cosine and tangent.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "maths"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "maths-trigonometry-sine-cosine",
+        "maths-tangent-function",
+        "maths-interval-notation"
     ],
     "related": [
-        "",
-        ""
     ]
 }
