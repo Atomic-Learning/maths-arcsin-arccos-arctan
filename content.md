@@ -12,5 +12,5 @@ As sine, cosine and tangent are all periodic functions, their inverses are not o
 
 # Notation
 
-You may see these functions referred to using the function names $arcsin(x)$, $arccos(x)$, and $arctan(x)$, or using the notation $\sin^{-1}(x)$, $\cos^{-1}(x)$, and $\tan^{-1}(x)$. Both notations are commonly used in mathematics.
+You may see these functions referred to using the function names $\arcsin(x)$, $\arccos(x)$, and $\arctan(x)$, or using the notation $\sin^{-1}(x)$, $\cos^{-1}(x)$, and $\tan^{-1}(x)$. Both notations are commonly used in mathematics.
 
